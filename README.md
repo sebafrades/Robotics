@@ -2,7 +2,7 @@
 
 An Arduino-based control system for a 5-DOF robotic arm utilizing Inverse Kinematics (IK) and spatial path planning. The system features a non-blocking Finite State Machine (FSM) driven via Serial communication to execute smooth 3D linear trajectories and arbitrarily oriented 3D circular paths.
 
-Developed as a Final Project for **Elementos de Medición, Supervisión y Control de Máquinas** (Mechanical Engineering Department, Universidad Nacional del Comahue, 2022).
+Developed as a Final Project for **Elementos de Medición, Supervisión y Control de Máquinas** (Mechanical Engineering Department, Universidad Nacional del Comahue, 2022)[cite: 1].
 
 ---
 
